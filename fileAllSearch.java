@@ -1,4 +1,3 @@
-```
 import java.io.*;
  
 public class fileAllSearch {    
@@ -31,4 +30,3 @@ public class fileAllSearch {
         }
     }
 }
-```
